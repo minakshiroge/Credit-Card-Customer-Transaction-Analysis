@@ -88,13 +88,13 @@ These columns help in customer segmentation and slicing dashboards.
 
 🔹 Step 6: DAX Measures Created
 
-🔹 Revenue Analysis
+Revenue Analysis
 
 - Current_week_revenue
 - Previous_week_revenue
 - WoW_revenue (Week-over-Week revenue change)
 
-🔹 Transaction Metrics
+Transaction Metrics
 
 - Total_Trans_Amt
 - Total_Trans_Count
