@@ -110,7 +110,7 @@ KPI Cards
 - Total Transaction Count
 - Average Utilization Ratio
 
-🔹 Charts & Visuals
+Charts & Visuals
 
 Line Chart: Week-over-Week Revenue Trend
 
@@ -119,7 +119,7 @@ Line Chart: Week-over-Week Revenue Trend
 - Bar Chart: Customer Count by Income Group
 - Bar Chart : Transaction Count by Use Chip
 
-🔹 Filters & Slicers
+Filters & Slicers
 
 - Gender
 - Education Level
