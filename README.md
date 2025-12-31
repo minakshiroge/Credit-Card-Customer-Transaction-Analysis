@@ -4,7 +4,7 @@ This project includes Credit Card analysis, dashboards and insights using Power 
 ## Project Objective
 This project analyzes credit card customer demographics and transaction behavior to generate actionable business insights.  The analysis focuses on revenue trends, customer segmentation, card performance
 
-## Dataset Overview
+## 🗂️ Dataset Overview
 1️⃣ Customer Table (10,109 rows)
 Client_Num
 Customer_Age
