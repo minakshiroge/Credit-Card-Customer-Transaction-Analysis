@@ -108,8 +108,10 @@ KPI Cards
 - Total Revenue
 - Total Transaction Amount
 - Total Transaction Count
-- Average Utilization Ratio
-
+- Total Interest
+- Income
+- Customer satisfiction Score
+  
 Charts & Visuals
 
 Line Chart: Week-over-Week Revenue Trend
@@ -125,5 +127,7 @@ Filters & Slicers
 - Education Level
 - Card Category
 - Quarter
+- Week Start Date
+- Use Chip
 
 These slicers make the dashboard fully interactive.
