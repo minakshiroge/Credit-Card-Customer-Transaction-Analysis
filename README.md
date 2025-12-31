@@ -79,25 +79,25 @@ These files were then imported into Power BI
 - Customer table → Dimension table
 - Credit Card table → Fact table
 
-🧮 Step 5: Calculated Columns (Power BI)
+🔹 Step 5: Calculated Columns (Power BI)
 Customer Table
 
 - Age_Group (Created age buckets for demographic analysis)
 - Income_Group (Segmented customers based on income ranges)
 These columns help in customer segmentation and slicing dashboards.
 
-📐 Step 6: DAX Measures Created
+🔹 Step 6: DAX Measures Created
+
 🔹 Revenue Analysis
 
-Revenue
-Current_week_revenue
-Previous_week_revenue
-WoW_revenue (Week-over-Week revenue change)
+- Current_week_revenue
+- Previous_week_revenue
+- WoW_revenue (Week-over-Week revenue change)
 
 🔹 Transaction Metrics
 
-Total_Trans_Amt
-Total_Trans_Count
-Total_Revolving_Bal
+- Total_Trans_Amt
+- Total_Trans_Count
+- Total_Revolving_Bal
 
 These measures enable trend analysis, KPI tracking.
