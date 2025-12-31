@@ -83,8 +83,10 @@ These files were then imported into Power BI
 Customer Table
 
 - Age_Group
+  
 Created age buckets for demographic analysis
 - Income_Group
+
 Segmented customers based on income ranges
 These columns help in customer segmentation and slicing dashboards.
 
