@@ -101,3 +101,29 @@ Transaction Metrics
 - Total_Revolving_Bal
 
 These measures enable trend analysis, KPI tracking.
+
+🔹 Step 7: Power BI Dashboard & Visuals
+KPI Cards
+
+- Total Revenue
+- Total Transaction Amount
+- Total Transaction Count
+- Average Utilization Ratio
+
+🔹 Charts & Visuals
+
+Line Chart: Week-over-Week Revenue Trend
+
+- Bar Chart: Revenue by Card Category
+- Bar Chart: Delinquent Accounts by Card Category
+- Bar Chart: Customer Count by Income Group
+- Bar Chart : Transaction Count by Use Chip
+
+🔹 Filters & Slicers
+
+- Gender
+- Education Level
+- Card Category
+- Quarter
+
+These slicers make the dashboard fully interactive.
