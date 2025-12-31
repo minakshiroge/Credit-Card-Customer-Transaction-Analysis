@@ -82,12 +82,8 @@ These files were then imported into Power BI
 🧮 Step 5: Calculated Columns (Power BI)
 Customer Table
 
-- Age_Group
-  
-Created age buckets for demographic analysis
-- Income_Group
-
-Segmented customers based on income ranges
+- Age_Group (Created age buckets for demographic analysis)
+- Income_Group (Segmented customers based on income ranges)
 These columns help in customer segmentation and slicing dashboards.
 
 📐 Step 6: DAX Measures Created
@@ -104,4 +100,4 @@ Total_Trans_Amt
 Total_Trans_Count
 Total_Revolving_Bal
 
-These measures enable trend analysis, KPI tracking, and risk monitoring.
+These measures enable trend analysis, KPI tracking.
