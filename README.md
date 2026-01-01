@@ -1,4 +1,4 @@
-# Credit-Card-Customer-Transaction-Analysis
+# Credit Card Customer Transaction Analysis
 This project includes Credit Card analysis, dashboards and insights using Power BI.
 
 ## Project Objective
@@ -143,10 +143,10 @@ Line Chart: Week-over-Week Revenue Trend
 - Bar Chart: Customer Count by Income Group
 - Bar Chart : Transaction Count by Use Chip
 
-Filters & Slicers
+Slicers
 
 - Gender
-- Education Level
+- Income Group
 - Card Category
 - Quarter
 - Week Start Date
