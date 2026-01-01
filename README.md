@@ -6,15 +6,15 @@ This project analyzes credit card customer demographics and transaction behavior
 
 # Key Insights
 WoW change:
-- Revenue increased by 28.8%,
-- Total Transaction Amt & Count increased by xx% & xx%
-- Customer count increased by xx%
+- Revenue Decreased by -6.7%,
+- Total Transaction Amount decreased by ~13.4%
+- Transaction Count decreased by ~54.2%
 
 Overview YTD:
 - Overall revenue is 55M
 - Total interest is 8M
 - Total transaction amount is 45M
-- Male customers are contributing more in revenue 31M, female 26M
+- Male customers are contributing more in revenue 30M, female 25M
 - Blue & Silver credit card are contributing to 93% of overall transactions
 - TX, NY & CA is contributing to 68%
 - Overall Activation rate is 57.5%
